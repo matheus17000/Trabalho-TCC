@@ -1,0 +1,9 @@
+# Credenciais do banco
+conexao.php
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Dependências/cache
+.phpunit.result.cache

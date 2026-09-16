@@ -1,0 +1,96 @@
+/* ============================================================
+   Modo Escuro — ERP TCC
+   ============================================================ */
+
+body.dark {
+    background-color: #0f172a !important;
+    color: #e2e8f0 !important;
+}
+
+/* Sidebar */
+body.dark aside {
+    background-color: #020617 !important;
+    border-color: #1e293b !important;
+}
+
+/* Navbar */
+body.dark header {
+    background-color: #1e293b !important;
+    border-color: #334155 !important;
+}
+body.dark header h2 {
+    color: #e2e8f0 !important;
+}
+body.dark header span {
+    color: #94a3b8 !important;
+}
+
+/* Cards brancos */
+body.dark .bg-white {
+    background-color: #1e293b !important;
+    color: #e2e8f0 !important;
+}
+
+/* Textos */
+body.dark .text-gray-800,
+body.dark .text-gray-700 {
+    color: #e2e8f0 !important;
+}
+body.dark .text-gray-600,
+body.dark .text-gray-500,
+body.dark .text-gray-400 {
+    color: #94a3b8 !important;
+}
+
+/* Tabelas */
+body.dark .bg-gray-50 {
+    background-color: #0f172a !important;
+}
+body.dark .divide-gray-100 > * {
+    border-color: #334155 !important;
+}
+body.dark .border-gray-100,
+body.dark .border-gray-200 {
+    border-color: #334155 !important;
+}
+body.dark tr:hover td {
+    background-color: #273549 !important;
+}
+
+/* Inputs e selects */
+body.dark input,
+body.dark select,
+body.dark textarea {
+    background-color: #0f172a !important;
+    border-color: #334155 !important;
+    color: #e2e8f0 !important;
+}
+body.dark input::placeholder {
+    color: #64748b !important;
+}
+
+/* Modais */
+body.dark .bg-white.rounded-2xl {
+    background-color: #1e293b !important;
+}
+
+/* Footer */
+body.dark header {
+    background-color: #1e293b !important;
+    border-color: #334155 !important;
+    border-color: #334155 !important;
+    color: #64748b !important;
+}
+
+/* Badge hover */
+body.dark .hover\:bg-gray-50:hover {
+    background-color: #273549 !important;
+}
+body.dark .hover\:bg-gray-100:hover {
+    background-color: #273549 !important;
+}
+
+/* Filtros */
+body.dark form.bg-white {
+    background-color: #1e293b !important;
+}
