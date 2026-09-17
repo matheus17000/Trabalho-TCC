@@ -35,11 +35,6 @@ Sistema ERP Web para pequenas empresas desenvolvido como Trabalho de Conclusão 
 7. Instalar dependências: `composer install`
 8. Acessar `http://localhost/erp-tcc`
 
-## Credenciais padrão
-
-- E-mail: `admin@erp.com`
-- Senha: `Admin@123`
-
 ## Estrutura de pastas
 
 erp-tcc/
